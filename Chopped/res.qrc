@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>background.jpg</file>
+        <file>bentobox.png</file>
+        <file>chef.jpg</file>
+        <file>confetti.jpg</file>
+        <file>ingredients_background.jpeg</file>
+        <file>kitchen_background.jpg</file>
+        <file>options_bkgrd.jpg</file>
+        <file>step1.jpg</file>
+        <file>step2.jpg</file>
+        <file>step3.jpg</file>
+        <file>step4.jpg</file>
+        <file>step5.jpg</file>
+        <file>step6.jpg</file>
+        <file>step7.jpg</file>
+        <file>step8.jpg</file>
+        <file>step9.jpg</file>
+        <file>step10.jpg</file>
+        <file>step11.jpg</file>
+        <file>step12.jpg</file>
+        <file>sashimi_cut.png</file>
+        <file>knife.png</file>
+        <file>goldfish.jpeg</file>
+        <file>packaged_fish.png</file>
+        <file>burnt_rice.jpg</file>
+        <file>undercooked_rice.jpg</file>
+        <file>avocado.png</file>
+        <file>broccoli.jpg</file>
+        <file>chicken.png</file>
+        <file>crabmeat.png</file>
+        <file>cucumber.png</file>
+        <file>fork.png</file>
+        <file>chopsticks.png</file>
+        <file>mashed_potatoes.png</file>
+        <file>seaweed.jpg</file>
+        <file>soysauce.png</file>
+        <file>sriracha.png</file>
+        <file>sushi_rice.jpg</file>
+        <file>tortilla.jpeg</file>
+        <file>zucchini.png</file>
+        <file>rice.png</file>
+        <file>burnt_rice.png</file>
+        <file>undercooked_rice.png</file>
+        <file>final_sushi.png</file>
+        <file>sushi.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>gooddog.otf</file>
+        <file>LobsterTwo-Bold.ttf</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>In_the_restaurant.mp3</file>
+    </qresource>
+</RCC>
